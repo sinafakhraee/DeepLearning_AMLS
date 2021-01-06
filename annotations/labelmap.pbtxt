@@ -1,0 +1,19 @@
+item {
+  id: 1
+  name: 'decay'
+}
+
+item {
+  id: 2
+  name: 'mesial_restoration'
+}
+
+item {
+  id: 3
+  name: 'occlusal_restoration'
+}
+
+item {
+  id: 4
+  name: 'bone_loss'
+}
