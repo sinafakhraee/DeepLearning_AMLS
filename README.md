@@ -1,6 +1,8 @@
 # DeepLearning_AMLS
 
-This repo contains step by step walk-through of training an object detection model using [TF2 Zoo](g3doc/tf2_detection_zoo.md)Creating accurate machine learning models capable of localizing and identifying
+This repo contains step by step walk-through of setting up [TensorFlow Object Detection API
+](https://github.com/tensorflow/models/tree/master/research/object_detection) on [Azure Machine Learning compute instance
+](https://docs.microsoft.com/en-us/azure/machine-learning/concept-compute-instance)Creating accurate machine learning models capable of localizing and identifying
 multiple objects in a single image remains a core challenge in computer vision.
 The TensorFlow Object Detection API is an open source framework built on top of
 TensorFlow that makes it easy to construct, train and deploy object detection
