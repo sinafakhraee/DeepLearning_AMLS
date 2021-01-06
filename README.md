@@ -1,5 +1,5 @@
 # Deep Learning using TF on Azure
-This repo contains step by step walk-through of setting up:
+This repo contains step by step walk-through of setting up: [python code](https://github.com/sinafakhraee/DeepLearning_AMLS/blob/main/tf-object-detection-api.ipynb)
 * [TensorFlow Object Detection API
 ](https://github.com/tensorflow/models/tree/master/research/object_detection) on [Azure Machine Learning GPU compute instance
 ](https://docs.microsoft.com/en-us/azure/machine-learning/concept-compute-instance). 
